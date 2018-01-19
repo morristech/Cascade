@@ -1,0 +1,15 @@
+<resources>
+  <string name="app_name">Cascade</string>
+  <string name="main_native_popup">Native popup</string>
+
+  <string name="add_to_queue">Add to queue</string>
+  <string name="share">Share</string>
+  <string name="add_to_playlist">Add to playlist</string>
+  <string name="save">Save</string>
+  <string name="playlist_new">New playlist</string>
+  <string name="playlist_relax_amp_unwind"><![CDATA[Relax & Unwind]]></string>
+  <string name="playlist_summer_hits">Summer hits</string>
+  <string name="share_twitter">Twitter</string>
+  <string name="share_telegram">Telegram</string>
+  <string name="share_copy_song_link">Copy song link</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <item android:title="@string/save" />
+
+  <item android:title="@string/add_to_playlist">
+
+    <menu>
+      <item android:title="@string/playlist_new" />
+      <item android:title="@string/playlist_relax_amp_unwind" />
+      <item android:title="@string/playlist_summer_hits" />
+    </menu>
+  </item>
+
+  <item android:title="@string/add_to_queue" />
+
+  <item android:title="@string/share">
+
+    <menu>
+      <item android:title="@string/share_twitter" />
+      <item android:title="@string/share_telegram" />
+      <item android:title="@string/share_copy_song_link" />
+    </menu>
+  </item>
+</menu>
